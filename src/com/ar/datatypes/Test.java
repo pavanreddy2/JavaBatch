@@ -1,5 +1,7 @@
 package com.ar.datatypes;
 
+import com.ar.constructor.Employee;
+
 public class Test {
 
     //declared static variable
@@ -13,5 +15,7 @@ public class Test {
         //className refName = new className();
         Test param = new Test();
         System.out.println(param.i);
+
+        Employee e = new Employee();
     }
 }

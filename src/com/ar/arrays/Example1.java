@@ -7,5 +7,9 @@ public class Example1 {
         //System.out.println(a[10]);
         System.out.println(a.length);
         //length: is property.
+
+
+
+        String s = "pavan";
     }
 }

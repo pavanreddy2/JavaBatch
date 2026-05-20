@@ -10,5 +10,12 @@ public class Example2 {
            a[i] = a[i] * 2;
         }
         System.out.println(Arrays.toString(a));
+
+        //reverse traversal
+        int[] arr = {10, 20, 30, 40};
+
+        for (int i = arr.length - 1; i >= 0; i--) {
+            System.out.println(arr[i]);
+        }
     }
 }
