@@ -1,4 +1,5 @@
 package com.ar.interfaceEx;
 
-public class MusicPlayer {
+public interface MusicPlayer {
+    void playMusic();
 }

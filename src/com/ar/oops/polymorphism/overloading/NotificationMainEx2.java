@@ -1,6 +1,6 @@
 package com.ar.oops.polymorphism.overloading;
 
-public class MethodOverloaingEx2 {
+public class NotificationMainEx2 {
     public static void main(String[] args) {
         NotificationService service = new NotificationService();
         service.send("abc@gmail.com");

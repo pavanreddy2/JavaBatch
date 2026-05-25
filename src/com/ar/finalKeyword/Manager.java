@@ -1,4 +1,6 @@
 package com.ar.finalKeyword;
 
-public class Manager {
+public class Manager extends Employee{
+
+
 }
